@@ -5,7 +5,7 @@ import "../styles/components/socialnetworks.sass"
 const socialNetwork = [
     {name: "linkedin", icon: <FaLinkedinIn/>, href: "https://www.linkedin.com/in/vinicius-marcham-da-silva-29a447218/"},
     {name: "github", icon: <FaGithub/>, href: "https://github.com/ViniciusMarchan"},
-    {name: "instagram", icon: <FaInstagram/>}
+    {name: "instagram", icon: <FaInstagram/>, href: "https://www.instagram.com/viniciusms_dev/"}
 ];
 
 const SocialNetwork = () => {
